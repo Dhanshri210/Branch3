@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/org.springframework.context_3.1.4.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aop-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aop-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aop-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aspects-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aspects-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-aspects-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-beans-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-beans-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-beans-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-indexer-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-indexer-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-indexer-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-support-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-support-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-context-support-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-core-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-core-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-core-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-expression-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-expression-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-expression-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-instrument-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-instrument-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-instrument-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-instrument-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jcl-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jcl-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jcl-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jdbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jdbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jdbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jms-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jms-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-jms-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-messaging-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-messaging-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-messaging-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-orm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-orm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-orm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-oxm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-oxm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-oxm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-r2dbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-r2dbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-r2dbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-test-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-test-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-test-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-tx-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-tx-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-tx-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-web-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-web-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-web-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webflux-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webflux-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webflux-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webmvc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webmvc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-webmvc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-websocket-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-websocket-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Desktop/20092022/Spring/Spring jar/libs/spring-websocket-5.3.8-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
